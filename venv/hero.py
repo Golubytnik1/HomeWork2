@@ -18,8 +18,7 @@ class SuperHero:
 
     #(4)
     def h(self):
-        hero.health = self.health_points * 2
-        print(f'2XHP: {hero.health}')
+        self.health_points *= 2
 
     #(5)
     def __str__(self):
