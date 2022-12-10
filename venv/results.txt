@@ -1,3 +1,0 @@
-Number of attempts: 6; 
-List of attempts: [50, 75, 88, 81, 78, 76]; 
-The correct number: [76]
