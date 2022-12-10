@@ -86,6 +86,7 @@ dofi.f()
 print(f'Fly: {dofi.fly}')
 dofi.phrase()
 
+# доч. класс от нового класса
 class Villain(DestroyHero):
     monster = 'monster'
 
