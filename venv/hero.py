@@ -100,4 +100,5 @@ class Villain(DestroyHero):
 
 akainu = Villain('Sakazuki', 'Fleet Admiral\n', 'Magu Magu\n', 90, 'Ryusei Kazan')
 print(akainu)
+akainu.gen_x()
 Villain.crit(ace.damage)
